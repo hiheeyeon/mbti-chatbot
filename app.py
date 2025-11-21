@@ -208,18 +208,18 @@ def get_travel_recommendation(mbti: str) -> str:
         **[{mbti}] 타입 추천 국내 여행 코스**
 
 "
-        f"- 추천 지역: {info['country']} {info['city']}
+        "- 추천 지역: {info['country']} {info['city']}
 "
-        f"- 여행 스타일: {info['style']}
+        "- 여행 스타일: {info['style']}
 "
-        f"- 추천 이유: {info['reason']}
+        "- 추천 이유: {info['reason']}
 "
-        f"- 추천 맛집 존: {info['food_area']}
+        "- 추천 맛집 존: {info['food_area']}
 "
-        f"- 대표 메뉴 키워드: {info['food_menu']}
+        "- 대표 메뉴 키워드: {info['food_menu']}
 
 "
-        f"※ 실제 방문 전에는 네이버/카카오맵에서 최신 후기와 영업시간을 꼭 확인하세요!"
+        "※ 실제 방문 전에는 네이버/카카오맵에서 최신 후기와 영업시간을 꼭 확인하세요!"
     """
     return text
 
