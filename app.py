@@ -313,7 +313,7 @@ elif st.session_state.step == "result":
     st.write(f"당신의 MBTI는 **{mbti}** 로 계산되었어요.")
 
     st.subheader("3. 추천 국내 여행지 + 맛집")
-     info = mbti_destinations[mbti]
+    info = mbti_destinations[mbti]
     st.image(info['img_url'], caption=f"{info['city']} 여행 사진")
     rec = get_travel_recommendation(mbti)
     st.markdown(rec)
