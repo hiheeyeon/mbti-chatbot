@@ -204,24 +204,22 @@ def get_travel_recommendation(mbti: str) -> str:
         return "등록되지 않은 MBTI 타입입니다! 16가지 유형(예: INFP, ESTJ) 중 하나를 정확히 입력해 주세요."
 
     info = mbti_destinations[mbti]
-    text = f"""
-        **[{mbti}] 타입 추천 국내 여행 코스**
 
-"
-        "- 추천 지역: {info['country']} {info['city']}
-"
-        "- 여행 스타일: {info['style']}
-"
-        "- 추천 이유: {info['reason']}
-"
-        "- 추천 맛집 존: {info['food_area']}
-"
-        "- 대표 메뉴 키워드: {info['food_menu']}
+text = f"""
+**[{mbti}] 타입 추천 국내 여행 코스**
 
-"
-        "※ 실제 방문 전에는 네이버/카카오맵에서 최신 후기와 영업시간을 꼭 확인하세요!"
-    """
-    return text
+- 추천 지역: {info['country']} {info['city']}
+- 여행 스타일: {info['style']}
+- 추천 이유: {info['reason']}
+- 추천 관광지: {info['city_area']}
+- 추천 맛집 존: {info['food_area']}
+- 대표 메뉴 키워드: {info['food_menu']}
+
+※ 실제 방문 전에는 네이버/카카오맵에서 최신 후기와 영업시간을 꼭 확인하세요!
+"""
+
+return text
+
 
 # -------------------------------
 # 5. Streamlit UI (단일 페이지)
