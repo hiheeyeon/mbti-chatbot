@@ -205,7 +205,9 @@ def get_travel_recommendation(mbti: str) -> str:
 
     info = mbti_destinations[mbti]
 
-text = f"""
+def get_travel_recommendation(mbti):
+    info = mbti_destinations[mbti]
+    text = f"""
 **[{mbti}] 타입 추천 국내 여행 코스**
 
 - 추천 지역: {info['country']} {info['city']}
@@ -217,8 +219,8 @@ text = f"""
 
 ※ 실제 방문 전에는 네이버/카카오맵에서 최신 후기와 영업시간을 꼭 확인하세요!
 """
+    return text
 
-return text
 
 
 # -------------------------------
