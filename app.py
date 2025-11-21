@@ -8,6 +8,7 @@ mbti_destinations = {
     "ISTJ": {
         "country": "대한민국",
         "city": "경주",
+        "img_url": "https://media.istockphoto.com/id/181867229/ko/%EC%82%AC%EC%A7%84/anapji-%EC%97%B0%EB%AA%BB-%EA%B2%BD%EC%A3%BC-%ED%95%9C%EA%B5%AD.jpg?s=1024x1024&w=is&k=20&c=a65eDVD0aNpGuorxnRzzdMeUlJM1IPcwavDp332g2GM=",
         "style": "역사 유적 위주의 차분한 여행",
         "reason": "경주는 차분하고 체계적인 ISTJ에게 특히 잘 맞는 도시입니다. 신라 시대의 유적지와 박물관, 고분군 등이 일정한 동선에 따라 정비되어 있어 계획적으로 여행하기 좋습니다. 조용히 걸으며 역사적 사실을 하나씩 확인할 수 있는 환경이라 여유롭게 산책하면서도 의미 있는 시간을 보내기 좋습니다. 붐비지 않는 한적한 골목과 전통문화가 조화를 이루어 ISTJ가 좋아하는 ‘정돈된 여행’이 가능합니다.",
         "city_area": "불국사, 월정교, 첨성대, 황리단길",
@@ -17,6 +18,7 @@ mbti_destinations = {
     "ISFJ": {
         "country": "대한민국",
         "city": "전주 한옥마을",
+        "img_url": "https://media.istockphoto.com/id/1195507814/ko/%EC%82%AC%EC%A7%84/%EC%A0%84%EC%A3%BC-%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84-%EC%A0%84%ED%86%B5%ED%95%9C%EB%8F%84%EC%8B%9C-%EC%A1%B0%EB%A7%9D-%EC%A0%84%EC%A3%BC-%EC%A0%84%EB%B6%81-%ED%95%9C%EA%B5%AD-%EC%95%84%EC%8B%9C%EC%95%84.jpg?s=1024x1024&w=is&k=20&c=iNeYlrgCPM8DIU2jxyDFgFx26InvPE0BzXx9wD0YTcg=",
         "style": "전통과 감성을 즐기는 여행",
         "reason": "ISFJ는 따뜻하고 정적인 분위기를 선호하는데, 전주 한옥마을은 그런 감성을 충분히 충족시켜 줍니다. 한옥의 고즈넉함과 전통음식 문화가 조화를 이루고 있어 ‘돌아보는 즐거움’이 큰 여행지입니다. 붐비는 곳보다 안정적이고 편안한 동선을 좋아하는 ISFJ에게 전주는 과하지 않고 부담스럽지 않은 힐링 여행지로 적합합니다. 골목골목의 감성적인 카페나 찻집도 큰 만족감을 줍니다.",
         "city_area": "전주 한옥마을, 전동성당, 전주향교",
@@ -26,6 +28,7 @@ mbti_destinations = {
     "INFJ": {
         "country": "대한민국",
         "city": "담양",
+        "img_url": "https://images.unsplash.com/photo-1747747585743-75b9d1f3730d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "style": "감성적인 자연 속 힐링",
         "reason": "담양의 조용한 자연환경은 깊은 사색을 즐기는 INFJ에게 잘 맞습니다. 죽녹원과 메타세쿼이아 길은 걷는 동안 감정과 생각을 정리할 수 있는 공간으로, INFJ의 내적 세계와 잘 어울립니다. 자연 속에서 혼자만의 시간을 보내거나 가까운 사람과 편안한 대화를 나누기에 이상적인 장소입니다. 인파가 적고 분위기가 평온해 진정한 힐링을 느낄 수 있습니다.",
         "city_area": "죽녹원, 소쇄원, 담양관방제림, 메타프로방스",
@@ -35,6 +38,7 @@ mbti_destinations = {
     "INTJ": {
         "country": "대한민국",
         "city": "제주 우도",
+        "img_url": "https://images.unsplash.com/photo-1584263836578-a47bff1bdd5c?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "style": "계획형 섬 일주 여행",
         "reason": "INTJ는 효율적인 일정 구성과 혼잡하지 않은 환경을 선호하는데, 우도는 작은 섬 특유의 명확한 동선 덕분에 ‘계획적인 탐방’이 가능해 매우 적합합니다. 조용한 해안길과 깔끔한 카페들이 있어 복잡함 없이 집중할 수 있으며, 여행 중에도 스스로만의 사고시간을 확보하기 좋습니다. 확신을 가지고 여행을 통제하고 싶어 하는 INTJ에게 안정적이면서도 매력적인 코스입니다.",
         "city_area": "우도봉, 검멀레해변, 하고수동해변, 훈데르트바서파크",
@@ -44,6 +48,7 @@ mbti_destinations = {
     "ISTP": {
         "country": "대한민국",
         "city": "강원도 속초·설악산",
+        "img_url": "https://images.unsplash.com/photo-1660782557510-4075e4089c26?q=80&w=1457&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "style": "액티비티 + 드라이브",
         "reason": "ISTP는 즉흥적인 활동과 자연 액티비티를 좋아합니다. 속초와 설악산은 등산, 드라이브, 바다 감상 등 다양한 활동을 선택할 수 있는 자유도가 높습니다. 계획 없이 떠나도 충분히 즐길 거리가 많아 ISTP의 ‘현장에서 즐기는 스타일’과 잘 어울립니다. 도시와 자연이 모두 가까워 원하는 대로 움직이기 좋고, 혼자서도 부담 없이 돌아다닐 수 있습니다.",
         "city_area": "속초아이대관람차, 설악 케이블카, 속초 중앙시장",
@@ -53,6 +58,7 @@ mbti_destinations = {
     "ISFP": {
         "country": "대한민국",
         "city": "여수",
+        "img_url": "https://images.unsplash.com/photo-1651375562199-65caae096ace?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "style": "야경과 바다 감성 여행",
         "reason": "감성적인 풍경을 사랑하는 ISFP는 여수의 바다와 야경, 감성 카페 분위기에서 큰 만족을 느낄 가능성이 높습니다. 사진 찍기 좋은 스팟이 많고 조용한 산책 코스도 있어서 자연스럽게 휴식할 수 있습니다. 강한 자극보다는 부드러운 분위기를 선호하는 ISFP에게 여수는 감성을 채우는 완벽한 힐링 여행지입니다.",
         "city_area": "여수해상케이블카, 여수 유월드 루지 테마파크, 여수미남크루즈",
@@ -62,6 +68,7 @@ mbti_destinations = {
     "INFP": {
         "country": "대한민국",
         "city": "통영",
+        "img_url": "https://images.unsplash.com/photo-1761654887830-1a45f7a35ede?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "style": "조용한 항구·섬 힐링",
         "reason": "INFP는 조용한 분위기와 감성적인 풍경을 선호합니다. 통영은 붐비지 않는 항구 도시 특유의 고즈넉함과 작은 섬들이 주는 평온함이 특징으로, INFP가 좋아하는 ‘나만의 세계에 잠기는 여행’을 하기 좋습니다. 예쁜 골목, 바람 부는 언덕, 소박한 카페 등 감성 포인트가 많아 마음의 여유를 찾는 데 이상적입니다.",
         "city_area": "통영케이블카, 동피랑 벽화마을, 이순신 공원",
@@ -71,6 +78,7 @@ mbti_destinations = {
     "INTP": {
         "country": "대한민국",
         "city": "춘천",
+        "img_url": "https://images.unsplash.com/photo-1708097863565-5b32d56cf96d?q=80&w=1333&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "style": "호수 주변 느긋한 여행",
         "reason": "소INTP는 혼자만의 시간이 충분한 여행을 선호하는데, 춘천의 호수 환경은 차분히 생각을 정리하기 좋은 도시입니다. 소양강과 의암호를 따라 걷거나 호수 전망 카페에서 조용히 시간을 보내기 좋습니다. 강한 자극 없이도 만족할 수 있는 도시여서 과도한 일정보다 여유로운 시간 배분을 좋아하는 INTP에게 잘 맞습니다.",
         "city_area": "남이섬, 레고랜드, 제이드가든",
@@ -80,6 +88,7 @@ mbti_destinations = {
     "ESTP": {
         "country": "대한민국",
         "city": "부산 해운대·광안리",
+        "img_url": "https://plus.unsplash.com/premium_photo-1661963130289-aa70dd516940?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "style": "바다 액티비티와 밤문화",
         "reason": "에너지가 넘치고 활동적인 ESTP에게 부산의 해운대·광안리는 최고의 놀이터입니다. 낮에는 바다 액티비티, 밤에는 화려한 야경과 다양한 먹거리를 즐길 수 있어 ‘지루할 틈 없는 여행’이 가능합니다. 즉흥적으로 움직이기 좋아하는 ESTP의 스타일과 부산의 빠른 리듬이 어울려 활기 넘치는 여행을 경험할 수 있습니다.",
         "city_area": "요트투어, 민락수변공원, 광안리해수욕장, 해운대블루라인파크",
@@ -89,6 +98,7 @@ mbti_destinations = {
     "ESFP": {
         "country": "대한민국",
         "city": "제주도",
+        "img_url": "https://images.unsplash.com/photo-1612977512598-3b8d6a498bbb?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "style": "사진·카페·액티비티 종합 여행",
         "reason": "사교적이고 감각적인 ESFP는 제주도의 풍부한 볼거리와 핫플을 매우 즐깁니다. 감성 카페, 액티비티, 자연 풍경, 인스타 스팟 등 다양한 요소가 한 곳에 모여 있어 ESFP에게 최적의 ‘재미 폭발 여행’이 됩니다. 트렌디한 공간을 좋아하는 성향 덕분에 제주도의 최신 명소를 탐방하는 것도 큰 즐거움이 됩니다.",
         "city_area": "감귤체험농장, 새별오름, 제주동백수목원, 비밀의 숲",
@@ -98,6 +108,7 @@ mbti_destinations = {
     "ENFP": {
         "country": "대한민국",
         "city": "강릉·양양",
+        "img_url": "https://images.unsplash.com/photo-1662360373919-49c32e988fc9?q=80&w=1375&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "style": "바다·카페·서핑 여행",
         "reason": "ENFP는 활발하고 감성적인 여행을 좋아합니다. 강릉과 양양은 바다, 카페, 서핑, 예쁜 거리 등 ENFP가 좋아할 요소가 가득합니다. 사람들과 어울리기 좋은 해변 분위기, 예쁜 카페 거리, 자연 속 자유로운 에너지가 함께 있어 ‘영감이 샘솟는 여행’이 됩니다. 즉흥적인 계획 변경에도 유연하게 대응할 수 있는 환경이라 더욱 잘 맞습니다.",
         "city_area": "경포해변, 오죽헌, 휴휴암, 낙산사",
@@ -107,6 +118,7 @@ mbti_destinations = {
     "ENTP": {
         "country": "대한민국",
         "city": "서울 성수",
+        "img_url": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDA4MjdfMjM2%2FMDAxNzI0NzE5MDA4MzUz.1g_URQKt4bkJSFUbKJam-r7daIkzpdehh4p_tFiMb08g.fwgrl6yLemylh0xD3HcaeZSzZTSXj3aIz7W5BsmbjqIg.JPEG%2F20240826_131757.jpg&type=sc960_832",
         "style": "새로운 트렌드 탐방",
         "reason": "ENTP는 새로운 트렌드와 자극적인 체험을 즐기며, 변화무쌍한 환경을 선호합니다. 성수는 팝업, 신상 카페, 실험적인 전시, 다양한 브랜드 매장들이 끊임없이 바뀌는 곳이라 ENTP에게 항상 새로운 즐거움을 제공합니다. 창의적인 영감을 얻기에도 좋은 도시여서 ‘지루할 틈 없는 탐험형 여행’이 가능합니다.",
         "city_area": "성수문화예술마당, 디뮤지엄, 시즌팝업",
@@ -116,6 +128,7 @@ mbti_destinations = {
     "ESTJ": {
         "country": "대한민국",
         "city": "경복궁",
+        "img_url": "https://images.unsplash.com/photo-1638964663550-e2123ac8900b?q=80&w=1175&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "style": "효율적인 일정 도시 여행",
         "reason": "ESTJ는 명확한 구조와 효율적인 동선을 선호하며, 여행에서도 ‘핵심을 빠르게 파악하는 일정’을 좋아합니다. 경복궁은 넓고 체계적으로 구성된 전통 궁궐로, 주요 전각들이 깔끔한 동선으로 이어져 있어 효율적으로 관람하기에 매우 적합합니다. 또한 주변에 국립현대미술관·인사동·종로 맛집 거리 등이 밀집해 있어 이동 시간을 최소화하면서도 다양한 경험을 한 번에 즐길 수 있는 점이 ESTJ의 계획형 성향과 잘 맞습니다.",
         "city_area": "경복궁, 국립현대미술관, 인사동거리",
@@ -125,6 +138,7 @@ mbti_destinations = {
     "ESFJ": {
         "country": "대한민국",
         "city": "인천·송도",
+        "img_url": "https://images.unsplash.com/photo-1653818283100-115421ad43e8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "style": "친구·연인과 함께 도시 산책",
         "reason": "ESFJ는 사람들과 함께하기 좋은 안정적이고 분위기 좋은 공간을 선호합니다. 송도는 쇼핑, 카페거리, 공원, 야경 등 같이 다니기 좋은 코스가 잘 모여 있어 동행자들과 편안하게 즐기기 좋습니다. 과한 이동 없이도 다양한 활동을 할 수 있어 관계 중심적인 ESFJ에게 잘 맞습니다.",
         "city_area": "송도달빛축제공원, 송도 센트럴파크, 테이블에이 앤 로우캣(동물원)",
@@ -134,6 +148,7 @@ mbti_destinations = {
     "ENFJ": {
         "country": "대한민국",
         "city": "남해·거제",
+        "img_url": "https://images.unsplash.com/photo-1663509815848-7b625499c5ab?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "style": "사람과 풍경을 함께 느끼는 여행",
         "reason": "ENFJ는 사람과 풍경을 함께 느끼는 여행을 좋아합니다. 남해와 거제는 완만한 해안도로와 시원한 전망이 이어져 있어 소중한 사람과 대화 나누기 좋은 코스가 많습니다. 감성 카페와 바다 풍경이 조화를 이루어 ‘따뜻한 분위기 속 공감 여행’을 즐길 수 있습니다.",
         "city_area": "거제포로수용소유적공원, 거제식물원, 바람의언덕, 남해 독일마을",
@@ -143,6 +158,7 @@ mbti_destinations = {
     "ENTJ": {
         "country": "대한민국",
         "city": "판교",
+        "img_url": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA0MjBfNzEg%2FMDAxNzQ1MTA2NDQwNTE4.pVaE_6NAoK8pjT5MBgJXXv8HSWNe81g-NEYsBlRkbNUg.FnBltYFrjP4XAXcsrGjmDjdxJs6s3l1M2C9uVsManL8g.JPEG%2F900%25A3%25DFScreenshot%25A3%25DF20250420%25A3%25DF084649%25A3%25DFGoogle.jpg&type=sc960_832",
         "style": "계획적·도시형 코스",
         "reason": "ENTJ는 체계적이고 세련된 도시형 여행을 선호합니다. 세종은 신도시 특유의 깔끔한 구성과 효율적인 이동 동선 덕분에 목적 중심의 여행이 가능합니다. 업무·카페·맛집·산책로 등이 정돈되어 있어 ENTJ가 선호하는 ‘전략적인 일정 구성’에 최적이며 도시적 감성도 만족시켜 줍니다.",
         "city_area": "베어트리파크, 국립세종수목원, 세종중앙공원",
@@ -297,6 +313,8 @@ elif st.session_state.step == "result":
     st.write(f"당신의 MBTI는 **{mbti}** 로 계산되었어요.")
 
     st.subheader("3. 추천 국내 여행지 + 맛집")
+     info = mbti_destinations[mbti]
+    st.image(info['img_url'], caption=f"{info['city']} 여행 사진")
     rec = get_travel_recommendation(mbti)
     st.markdown(rec)
 
