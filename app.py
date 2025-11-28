@@ -157,7 +157,7 @@ mbti_destinations = {
     },
     "ENTJ": {
         "country": "대한민국",
-        "city": "세종종",
+        "city": "세종",
         "img_url": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA0MjBfNzEg%2FMDAxNzQ1MTA2NDQwNTE4.pVaE_6NAoK8pjT5MBgJXXv8HSWNe81g-NEYsBlRkbNUg.FnBltYFrjP4XAXcsrGjmDjdxJs6s3l1M2C9uVsManL8g.JPEG%2F900%25A3%25DFScreenshot%25A3%25DF20250420%25A3%25DF084649%25A3%25DFGoogle.jpg&type=sc960_832",
         "style": "계획적·도시형 코스",
         "reason": "ENTJ는 체계적이고 세련된 도시형 여행을 선호합니다. 세종은 신도시 특유의 깔끔한 구성과 효율적인 이동 동선 덕분에 목적 중심의 여행이 가능합니다. 업무·카페·맛집·산책로 등이 정돈되어 있어 ENTJ가 선호하는 ‘전략적인 일정 구성’에 최적이며 도시적 감성도 만족시켜 줍니다.",
